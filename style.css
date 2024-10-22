@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    background-color: brown;
+    text-align: center;
+    margin-top: 0;
+    position: relative;
+}
+.logo {
+    width: 100%;
+    border: solid brown;
+    
+
+}
+p {
+    text-align: center;
+    border: solid ;
+    font-size: large;
+    position: relative;
+    top: -60px;
+    z-index: 5;
+    background-color: aliceblue;
+}
+.img {
+   
+}
+    
